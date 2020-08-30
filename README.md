@@ -18,6 +18,9 @@ questions.
 8. What is/are appropriate evaluation metrics? (5 pts)
 9. Criticize your results and provide your suggestions. (10 pts)
 10. How to apply your work in the real clinical settings? (5 pts)
+
 Upload your data and source code to GitHub and submit your report via Google Classroom.
+
 May the force be with you
+
 Ratchainant Thammasudjarit, Ph.D.
